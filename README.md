@@ -10,5 +10,9 @@ Hi there, I’m **Shaun Thomas**! 👋  <br>I’m a Computer Science major at Ca
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthomas04&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- # 📊 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/shaunthomas04?theme=nord&font=Sora&colors=%2304070a%2C%20%238cb9ed%2C%20%238cb9ed%2C%20%2384abe3%2C%20%236a75d9%2C%20%2318fa07%2C%20%23de7a00%2C%20%23fa2707%2C%20%238cb9ed%2C) -->
+
 #
 <img src="images/capybara.gif" alt="Capybara Coding" width="200" height="400"/>
