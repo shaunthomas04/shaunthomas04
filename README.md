@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I’m **Shaun Thomas**! 👋  <br>I’m a Computer Science major at California Baptist University and have been programming since my freshman year of high school.<br><br>A little about me:  <br>- I have a strong background in **web development**, working on both frontend and backend projects.  <br>- Lately, I’ve been exploring **AI/ML** and **Embedded Development**. <br>- I like tackling challenging problems and finding creative solutions through code. <br>- I’m passionate about connecting different software components to create a working system.<br><br>I enjoy learning by building and experimenting, and I’m always curious about how things work under the hood.<br>
+Hi there, I’m **Shaun Thomas**! 👋  <br>I’m a Computer Science major at California Baptist University and have been programming since my freshman year of high school.<br><br>A little about me:  I enjoy programming and exploring new technologies, experimenting with different frameworks, tools, and software. I like tackling challenging problems and finding creative solutions, and I learn best through hands-on projects and experimentation. Exploring how different systems work together and building things from the ground up keeps me engaged and motivated.
 
 
 # 💻 Tech Stack:
