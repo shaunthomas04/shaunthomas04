@@ -22,7 +22,7 @@
 ---
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=shaunthomas04&theme=discord-old-blurple&hide_border=true&card_width=200&card_height=20)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthomas04\&theme=discord_old_blurple\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact\&card_width=200)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=shaunthomas04&theme=discord-old-blurple&hide_border=true&card_width=300&card_height=20)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthomas04\&theme=discord_old_blurple\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact\&card_width=300)
 
 
