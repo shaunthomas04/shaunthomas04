@@ -20,9 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,react,aws,mongodb,mysql&theme=dark&perline=7&size=150)](https://skillicons.dev)
 
 ---
-
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=shaunthomas04&theme=discord-old-blurple&hide_border=true&card_width=420&card_height=20)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthomas04\&theme=discord_old_blurple\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact\&card_width=400)
-
-
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=shaunthomas04&theme=discord-old-blurple&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthomas04&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=400" />
+</p>
