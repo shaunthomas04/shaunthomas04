@@ -22,5 +22,5 @@
 ---
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=shaunthomas04&theme=discord-old-blurple&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthomas04&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthomas04&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=200" />
 </p>
